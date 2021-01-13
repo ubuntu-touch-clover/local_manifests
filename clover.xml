@@ -4,7 +4,7 @@
 -->
 <manifest>
     <!-- Remotes -->
-    <remote name="ubuntu-touch-clover" fetch="https://github.com/ubuntu-touch-clover" revision="master" />
+    <remote name="ubuntu-touch-clover" fetch="https://github.com/ubuntu-touch-clover" revision="halium-9.0" />
 
     <!-- Device Tree -->
     <project path="device/xiaomi/clover" name="halium_device_xiaomi_clover" remote="ubuntu-touch-clover" />
